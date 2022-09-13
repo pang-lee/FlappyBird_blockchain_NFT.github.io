@@ -2,8 +2,11 @@
 ### The whole project is reference by https://www.youtube.com/watch?v=ZjQzxXhebVc  
 ### If you are interested in building awesome project, you may follow their channel!  
 
+-------------------------------------------------------------------------------------
+
 Remake of the Original FlappyBird Using **JS** &amp; **HTML Canvas**  
---------------------------------------------------------------------------------------  
+
+--------------------------------------------------------------------------------------
 
 Use the hardhat as the blockchain backend to create smart contract to generate the Token and NFT  
 The Token is follow by the ERC20 standard as for the NFT is follow by ERC1155 (there is also ERC721 standard)  
