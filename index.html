@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FlappyBird</title>
+    <link rel="stylesheet" href="style.css" > 
+    <link href="https://fonts.googleapis.com/css?family=Squada+One&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.0/ethers.umd.min.js" integrity="sha512-+Ftowzj6zmwHlez4gpQxd7QQUzK/ocgu10pukN3Pyqblni7yJ9r/WTpNHoYKL4DGOp5givxSUZjJcVY7Az9OAQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <button class="button1" onclick="claimNft()">Claim nft</button>
+    <button class="button2" onclick="claimTokens()">Claim tokens</button>
+    <button class="button3" onclick="connectMetamask()">Connect metamask</button>
+    <p id="token"></p>
+    <p id="nft"></p>
+    <canvas id="canvas" width="276" height="414"></canvas>
+    <script src="game.js"></script>
+    <script src="blockchain.js"></script>
+</body>
+</html>
