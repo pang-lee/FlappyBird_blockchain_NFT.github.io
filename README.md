@@ -10,7 +10,8 @@ Remake of the Original FlappyBird Using **JS** &amp; **HTML Canvas**
 
 Use the hardhat as the blockchain backend to create smart contract to generate the Token and NFT  
 The Token is follow by the ERC20 standard as for the NFT is follow by ERC1155 (there is also ERC721 standard)  
-And we upload our NFT to the IPFS server which is pinata and generate the NFT json file inside blockchain/BirdMetaData/runnerGamejson
+And we upload our NFT to the IPFS server which is pinata and generate the NFT json file  
+And the file is inside blockchain/BirdMetaData/runnerGamejson
 And the network for the blockchain is running on the ganache localhost network
 
 ---------------------------------------------------------------------------------------  
